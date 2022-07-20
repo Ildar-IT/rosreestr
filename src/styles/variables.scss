@@ -1,0 +1,37 @@
+
+@import "mixins";
+
+$xs: 0px;
+$sm: 640px;
+$md: 1200px;
+$lg: 1720px;
+$xl: 2000px;
+
+
+$white: #ffffff;
+$black: #000917;
+$light-grey: #E1E5EC;
+$mid-grey: #AFB7C3;
+$mid-grey-opacity: rgba(175, 183, 195, 0.6);;
+$dark-grey: #4A5361;
+/*$blue: #037CE0;*/
+$blue-light:#4FC9FF;
+
+
+$primary-1: #037CE0;
+$primary-2: $blue-light;
+$secondary-1: $mid-grey-opacity;
+$secondary-2: $light-grey;
+$secondary-3: $dark-grey;
+$secondary-4: $mid-grey;
+$error: #FF8484;
+$warning: #FFCC16;
+$default-text-color: $white;
+$bg: rgba(255, 254, 251, 0.8);
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+
+// переопределяем сетку
+$grid-breakpoints: () !default;
+$grid-breakpoints: (
+        'xs': 0,
+        'sm': 744px, // default 600px
+        'md': 1200px, // default 960px
+        'lg': 1920px, // default 1280px - 16px,
+        'xl': 1920px, // default 1920px - 16px
+);
+
+
